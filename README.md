@@ -1,6 +1,7 @@
-# LLNL Theme for Jekyll Websites
+# ORNL Theme for Jekyll Websites
 
-Author: Ian Lee <lee1001@llnl.gov> and Elsa Gonsiorowski <gonsie@llnl.gov>
+ORNL Author: Greg Watson <watsongr@ornl.gov>
+Original Authors: Ian Lee <lee1001@llnl.gov> and Elsa Gonsiorowski <gonsie@llnl.gov>
 
 ## Installation
 
@@ -11,13 +12,13 @@ This gem can be used in two ways: either as a gem-based theme or through GitHub 
 Add this line to your Jekyll site's `Gemfile`:
 
 ```ruby
-gem "jekyll-llnl-theme"
+gem "jekyll-ornl-theme"
 ```
 
 And add this line to your Jekyll site's `_config.yml`:
 
 ```yaml
-theme: jekyll-llnl-theme
+theme: jekyll-ornl-theme
 ```
 
 And then execute:
@@ -29,7 +30,7 @@ $ bundle
 Or install it yourself as:
 
 ```shell
-$ gem install jekyll-llnl-theme
+$ gem install jekyll-ornl-theme
 ```
 
 ### GitHub Pages Remote Theme
@@ -44,7 +45,7 @@ gem "github-pages", group :jekyll_plugins
 And add this line to your site's `_config.yml`:
 
 ``` yaml
-remote_theme: LLNL/Jekyll-LLNL-Theme
+remote_theme: ORNL/Jekyll-ORNL-Theme
 ```
 
 It is unclear if the remote theme is suitable for local development, but it will work on deployed sites.
@@ -118,13 +119,10 @@ $ open localhost:4000
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/llnl/jekyll-llnl-theme.
-This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [LLNL Contributing Guide](https://github.com/LLNL/open-source-guidelines/blob/master/CONTRIBUTING.md) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/ornl/jekyll-ornl-theme.
+This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [ORNL Contributing Guide](https://github.com/ORNL/open-source-guidelines/blob/master/CONTRIBUTING.md) code of conduct.
 
 ## Release
 
 This Jekyll theme is released under the MIT License. For more details see the
 LICENSE File.
-
-LLNL-CODE-705597
-LLNL-WEB-680594

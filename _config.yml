@@ -1,11 +1,11 @@
-title: "LLNL Theme for Jekyll"
-author: "Ian Lee <lee1001@llnl.gov>"
-description: "LLNL Jekyll Template"
+title: "ORNL Theme for Jekyll"
+author: "Greg Watson <watsongr@ornl.gov>"
+description: "ORNL Jekyll Template"
 
 # Correct linking GitHub Project pages
 # Note leading slash in baseurl
-githubrepo: Jekyll-LLNL-Theme
-baseurl: /Jekyll-LLNL-Theme
+githubrepo: Jekyll-ORNL-Theme
+baseurl: /Jekyll-ORNL-Theme
 
 permalink: pretty
 
