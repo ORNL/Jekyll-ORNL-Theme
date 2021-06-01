@@ -1,7 +1,7 @@
 # ORNL Theme for Jekyll Websites
 
-ORNL Author: Greg Watson <watsongr@ornl.gov>
-Original Authors: Ian Lee <lee1001@llnl.gov> and Elsa Gonsiorowski <gonsie@llnl.gov>
+- ORNL Author: Greg Watson <watsongr@ornl.gov>
+- Original Authors: Ian Lee <lee1001@llnl.gov> and Elsa Gonsiorowski <gonsie@llnl.gov>
 
 ## Installation
 
